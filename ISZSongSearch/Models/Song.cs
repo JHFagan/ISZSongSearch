@@ -13,5 +13,6 @@ namespace ISZSongSearch.Models
         public int ID { get; set; }
         public string SongName { get; set; }
         public string Artist { get; set; }
+        public string FilePath { get; set; }
     }
 }
