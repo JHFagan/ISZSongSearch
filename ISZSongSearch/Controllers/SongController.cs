@@ -19,5 +19,10 @@ namespace ISZSongSearch.Controllers
             return View(songs);
 
         }
+        public IActionResult ViewSong(int id)
+        {
+            var song = repo.GetSong(id);
+            return View(song);
+        }
     }
 }

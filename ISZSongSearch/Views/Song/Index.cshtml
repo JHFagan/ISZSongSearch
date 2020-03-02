@@ -13,7 +13,7 @@
     @foreach (var song in Model)
     {
         <tr>
-            <td>@song.ID</td>
+            <td><a href=/Song/ViewSong/@song.ID>@song.ID</a></td>
             <td>@song.SongName</td>
             <td>@song.Artist</td>
            

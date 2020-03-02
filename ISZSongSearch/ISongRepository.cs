@@ -9,6 +9,6 @@ namespace ISZSongSearch
     public interface ISongRepository
     {
         public IEnumerable<Song> GetAllSongs();
-        //public Song GetSong(int id);
+        public Song GetSong(int id);
     }
 }
