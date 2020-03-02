@@ -7,5 +7,8 @@ namespace ISZSongSearch.Models
 {
     public class Song
     {
+        public Song() { }
+        public int ID { get; set; }
+        public string Name { get; set; }
     }
 }
