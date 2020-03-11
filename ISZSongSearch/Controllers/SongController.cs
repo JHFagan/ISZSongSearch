@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Hosting.Internal;
 
 namespace ISZSongSearch.Controllers
 {
@@ -23,6 +25,10 @@ namespace ISZSongSearch.Controllers
         {
             var song = repo.GetSong(id);
             return View(song);
+
+            //var fileContents = System.IO.File.ReadAllText((@$"C:\Users\jhfag\Desktop\Repos\ISZSongSearch\ISZSongSearch\Content\Covers\{song.FilePath}"));
+            //return Content(fileContents);
+
         }
     }
 }

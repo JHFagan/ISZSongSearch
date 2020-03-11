@@ -6,12 +6,24 @@
         <th>ID</th>
         <th>SongName</th>
         <th>Artist</th>
-        
+        <th>FilePath</th>
+
     </tr>
     <tr>
         <td>@Model.ID</td>
         <td>@Model.SongName</td>
         <td>@Model.Artist</td>
+        <td>@Model.FilePath</td>
     </tr>
-    </table>
-<p></p>
+</table>
+<div id="list">
+    <p>
+        <iframe src="~/Content/Covers/@Model.FilePath" frameborder="1" height="400"
+                width="600"></iframe>
+    </p>
+</div>
+
+
+
+
+

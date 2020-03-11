@@ -10,5 +10,6 @@ namespace ISZSongSearch
     {
         public IEnumerable<Song> GetAllSongs();
         public Song GetSong(int id);
+        //public void UploadSong()
     }
 }

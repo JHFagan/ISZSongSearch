@@ -11,6 +11,68 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Content\Covers\46Days_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\Ain%27tWastinTime_TheAllmanBrothersBand.txt" />
+    <None Include="wwwroot\Content\Covers\AllNightLong_LionelRichie.txt" />
+    <None Include="wwwroot\Content\Covers\AlsoSprachZarathustra%282001Theme%29_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\AnotherBrickInTheWallPt2_PinkFloyd.txt" />
+    <None Include="wwwroot\Content\Covers\Anytime_MMJ.txt" />
+    <None Include="wwwroot\Content\Covers\AtlanticCity_TheBand.txt" />
+    <None Include="wwwroot\Content\Covers\Bertha_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\BlackoutBlues_WidespreadPanic.txt" />
+    <None Include="wwwroot\Content\Covers\BurningDownTheHouse_TheTalkingHeads.txt" />
+    <None Include="wwwroot\Content\Covers\Can%27tYouSee_MarshallTuckerBand.txt" />
+    <None Include="wwwroot\Content\Covers\CharacterZero_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\CherubRock_TheSmashingPumpkins.txt" />
+    <None Include="wwwroot\Content\Covers\ChillyWater_WidespreadPanic.txt" />
+    <None Include="wwwroot\Content\Covers\ChinaCatSunflower_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\ComfortablyNumb_PinkFloyd.txt" />
+    <None Include="wwwroot\Content\Covers\CortezTheKiller_NeilYoung.txt" />
+    <None Include="wwwroot\Content\Covers\Deal_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\Debra_Beck.txt" />
+    <None Include="wwwroot\Content\Covers\FirstTube_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\FOTM_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\Franklin%27sTower_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\Free_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\GoinDownTheRoadFeelinBad_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\HonkyRed_MurrayMcLauchlan.txt" />
+    <None Include="wwwroot\Content\Covers\I%27veGotAFeeling_TheBeatles.txt" />
+    <None Include="wwwroot\Content\Covers\IKnowYouRider_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\ISawTheLight_HankWilliams.txt" />
+    <None Include="wwwroot\Content\Covers\LawyersGuns&amp;Money_WarrenZevon.txt" />
+    <None Include="wwwroot\Content\Covers\Loser_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\Lucky_Radiohead.txt" />
+    <None Include="wwwroot\Content\Covers\MidnightRider_TheAllmanBrothersBand.txt" />
+    <None Include="wwwroot\Content\Covers\MississippiHalf-Step_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\MomaDance_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\MoonageDaydream_DavidBowie.txt" />
+    <None Include="wwwroot\Content\Covers\NoQuarter_LedZeppelin.txt" />
+    <None Include="wwwroot\Content\Covers\NotFadeAway_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\PhoneWentWest_MMJ.txt" />
+    <None Include="wwwroot\Content\Covers\Pleas_WidespreadPanic.txt" />
+    <None Include="wwwroot\Content\Covers\PorchSong_WidespreadPanic.txt" />
+    <None Include="wwwroot\Content\Covers\RambleOnRose_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\Sand_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\SayItToMeSANTOS_Phish.txt" />
+    <None Include="wwwroot\Content\Covers\ScarletBegonias_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\StStephen_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\Sugaree_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\SurpriseValley_WidespreadPanic.txt" />
+    <None Include="wwwroot\Content\Covers\TakeYourMama_ScissorSisters.txt" />
+    <None Include="wwwroot\Content\Covers\TallBoy_WidespreadPanic.txt" />
+    <None Include="wwwroot\Content\Covers\Time_PinkFloyd.txt" />
+    <None Include="wwwroot\Content\Covers\WeirdFishesArpeggi_Radiohead.txt" />
+    <None Include="wwwroot\Content\Covers\WharfRat_GratefulDead.txt" />
+    <None Include="wwwroot\Content\Covers\WhileMyGuitarGentlyWeeps_TheBeatles.txt" />
+    <None Include="wwwroot\Content\Covers\WithALittleHelpFromMyFriends_TheBeatles.txt" />
+    <None Include="wwwroot\Content\Covers\Wolfman%27sBrother_Phish.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\App_Data\" />
+  </ItemGroup>
+
 
 
 </Project>

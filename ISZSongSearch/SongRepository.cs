@@ -21,7 +21,7 @@ namespace ISZSongSearch
         }
         public Song GetSong(int id)
         {
-            return(Song)_conn.QuerySingle<Song>("SELECT * FROM songs WHERE ID = @id", new { @id = id });
+            return(Song)_conn.QuerySingle<Song>("SELECT * FROM songs WHERE ID = @id", new {@id = id });
         }
     }
 }
